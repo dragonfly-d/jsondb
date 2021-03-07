@@ -1,4 +1,48 @@
 {
+    "channels": [
+        {
+            "id": 109,
+            "number": 1,
+            "name": "Первый канал",
+            "logo": "http://iptv-mw2.freedom-vrn.ru:9000/logos/320/109.png",
+            "hasArchive": true
+        },
+        {
+            "id": 109,
+            "number": 1,
+            "name": "Первый канал",
+            "logo": "http://iptv-mw2.freedom-vrn.ru:9000/logos/320/109.png",
+            "hasArchive": true
+        },
+        {
+            "id": 109,
+            "number": 1,
+            "name": "Первый канал",
+            "logo": "http://iptv-mw2.freedom-vrn.ru:9000/logos/320/109.png",
+            "hasArchive": true
+        },
+        {
+            "id": 109,
+            "number": 1,
+            "name": "Первый канал",
+            "logo": "http://iptv-mw2.freedom-vrn.ru:9000/logos/320/109.png",
+            "hasArchive": true
+        },
+        {
+            "id": 109,
+            "number": 1,
+            "name": "Первый канал",
+            "logo": "http://iptv-mw2.freedom-vrn.ru:9000/logos/320/109.png",
+            "hasArchive": true
+        },
+        {
+            "id": 109,
+            "number": 1,
+            "name": "Первый канал",
+            "logo": "http://iptv-mw2.freedom-vrn.ru:9000/logos/320/109.png",
+            "hasArchive": true
+        }
+    ],
     "posts": [{
             "id": 1,
             "title": "Post 1"
